@@ -91,7 +91,7 @@ def adding_matz
   programmer_hash
   
    # skills= {:known_for => "Ruby", :languages => ["LISP", "C"]}
-     n_arr = programmer_hash.to_a
+    # n_arr = programmer_hash.to_a
     # n_arr.unshift([:yukihiro_matsumoto,{}])
     # n_hash= n_arr.to_h
    #  n_hash[:yukihiro_matsumoto] = skills
