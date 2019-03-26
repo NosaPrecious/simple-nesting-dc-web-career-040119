@@ -88,7 +88,7 @@ def adding_matz
     :languages => ["LISP", "C"]
   }
   
-  programmer_hash[:yukihiro_matsumoto].to_a
+  programmer_hash
   
    # skills= {:known_for => "Ruby", :languages => ["LISP", "C"]}
      n_arr = programmer_hash.to_a
